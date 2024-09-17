@@ -50,7 +50,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "typescript": "~4.5.0",
-    "vite": "~2.6.0",
+    "vite": "~3.2.11",
     "vite-plugin-dts": "~0.9.0"
   },
   "repository": {
